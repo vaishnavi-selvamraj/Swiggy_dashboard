@@ -31,4 +31,4 @@ The report should be published inside the Fabric workspace.
 
 # Sample Dashboard
 
-![image_alt]()
+![image_alt](https://github.com/vaishnavi-selvamraj/Swiggy_dashboard/blob/main/Screenshot%20(69).png?raw=true)
